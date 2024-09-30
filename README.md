@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center"> Hi there 👋, I'm Aditya Yadav! </h1>
 
-<!--
-**Adi3042/Adi3042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/Adi3042"><img alt="Github" src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/aditya-yadav-49ab37266/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+  <a href="mailto:aditya30042002yadav@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/i_aditya_30"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <em>I'm Aditya, a tech enthusiast passionate about data analysis, programming, and building solutions that solve real-world problems. Currently pursuing B.Tech in CSE at AKTU.</em>
+</p>
+
+---
+
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="45%" height="auto" />
+
+### 👨‍💻 &nbsp;**About Me**
+
+- 🎓 Pursuing B.Tech in CSE from United College of Engineering and Research (AKTU).
+- 📊 Interested in Data Science, Machine Learning, and Data Visualization.
+- 💻 Hands-on with Python, Power BI, Tableau, and open-source projects.
+- 🚀 Always learning new technologies and improving my skills.
+
+---
+
+### 🛠 &nbsp;**Tech Stack**
+<p>
+	
+- 🌐 &nbsp;**Frontend Development:**
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+
+- 🗄 &nbsp;**Database Technologies:**
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
+  <img width="46.5%" align="right" src="https://github-readme-stats.vercel.app/api?username=Adi3042&theme=buefy&show_icons=true&hide_border=true" />
+
+  
+- 💻 &nbsp;**Languages:**
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-333333?style=flat&logo=gnu-bash)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+
+- ⚡ &nbsp;**Big Data & NLP:**
+  ![Big Data](https://img.shields.io/badge/-Big_Data-333333?style=flat)
+  ![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=apache-hadoop)
+  ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-333333?style=flat&logo=apache-spark)
+  ![NLP](https://img.shields.io/badge/-NLP-333333?style=flat)
+
+- 🔧 &nbsp;**Technologies:**
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  
+- 📊 &nbsp;**Data Visualization & Analysis:**
+  ![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)
+  ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
+  ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
+  ![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=plotly)
+  ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-333333?style=flat&logo=scikit-learn)
+
+</p>
+<br />
+
+---
