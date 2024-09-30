@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="45%" height="auto" />
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="40%" height="auto" />
 
 ### 👨‍💻 &nbsp;**About Me**
 
@@ -37,7 +37,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
-  <img width="46.5%" align="right" src="https://github-readme-stats.vercel.app/api?username=Adi3042&theme=buefy&show_icons=true&hide_border=true" />
+  <img width="41.5%" align="right" src="https://github-readme-stats.vercel.app/api?username=Adi3042&theme=buefy&show_icons=true&hide_border=true" />
 
   
 - 💻 &nbsp;**Languages:**
