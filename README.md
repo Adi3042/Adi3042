@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, I'm Aditya Yadav! </h1>
+<h1 align="center"> Hi there 👋,<br> I'm Aditya Yadav! </h1>
 
 <p align="center">
   <a href="https://github.com/Adi3042"><img alt="Github" src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"></a>
