@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <em>I'm Aditya, a tech enthusiast passionate about data analysis, programming, and building solutions that solve real-world problems. Currently pursuing B.Tech in CSE at AKTU.</em>
+  <em>I'm Aditya, a tech enthusiast passionate about data analysis, programming, and building solutions that solve real-world problems. </em>
 </p>
 
 ---
@@ -19,7 +19,6 @@
 
 ### 👨‍💻 &nbsp;**About Me**
 
-- 🎓 Pursuing B.Tech in CSE from United College of Engineering and Research (AKTU).
 - 📊 Interested in Data Science, Machine Learning, and Data Visualization.
 - 💻 Hands-on with Python, Power BI, Tableau, and open-source projects.
 - 🚀 Always learning new technologies and improving my skills.
