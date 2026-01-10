@@ -1,11 +1,6 @@
 <h1 align="center"> Hi there 👋,<br> I'm Aditya Yadav! </h1>
 
-<p align="center">
-  <a href="https://github.com/Adi3042"><img alt="Github" src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/aditya-yadav-49ab37266/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
-  <a href="mailto:aditya30042002yadav@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/i_aditya_30"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"></a>
-</p>
+
 
 ---
 
