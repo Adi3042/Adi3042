@@ -1,9 +1,6 @@
 <h1 align="center"> Hi there 👋,<br> I'm Aditya Yadav! </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/datascientist-aditya/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Yadav-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
   <a href="https://www.instagram.com/i_aditya_30" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@i_aditya_30-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
